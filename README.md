@@ -31,10 +31,11 @@ Diagrama:
    |      Pedidos                        |
    +-------------------------------------+
    | - nombrecliente : String            |
-   | - ic : String                       |
+   | - id : String                       |
    +-------------------------------------+
    | + agregarProducto(Productos producto|
    | + mostrarDetalles()                 |
    +-------------------------------------+
 ```
+
 
